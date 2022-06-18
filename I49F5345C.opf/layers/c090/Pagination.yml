@@ -1,0 +1,103 @@
+id: eab3a420310b49cd8cb3c4f6edb7931a
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  9fe170b06109427ab1ed4468970d403f:
+    span:
+      start: 0
+      end: 475
+    metadata:
+      page_num: '139'
+    page_info: null
+    imgnum: 139
+    reference: null
+  e14df697212045edbdb537e7bacd85f6:
+    span:
+      start: 477
+      end: 1846
+    metadata:
+      page_num: '140'
+    page_info: null
+    imgnum: 140
+    reference: null
+  560308238a234226b2e6cdcfb506068c:
+    span:
+      start: 1848
+      end: 3227
+    metadata:
+      page_num: '141'
+    page_info: null
+    imgnum: 141
+    reference: null
+  4eee746cf0d54efda540fe555fb06097:
+    span:
+      start: 3229
+      end: 4572
+    metadata:
+      page_num: '142'
+    page_info: null
+    imgnum: 142
+    reference: null
+  9d73c4a1d5ee4d969360fd04865583a2:
+    span:
+      start: 4574
+      end: 5953
+    metadata:
+      page_num: '143'
+    page_info: null
+    imgnum: 143
+    reference: null
+  2844e0c51b0649f087616699955b242e:
+    span:
+      start: 5955
+      end: 7316
+    metadata:
+      page_num: '144'
+    page_info: null
+    imgnum: 144
+    reference: null
+  f77fae2935ed40d3953036306becdd73:
+    span:
+      start: 7318
+      end: 8681
+    metadata:
+      page_num: '145'
+    page_info: null
+    imgnum: 145
+    reference: null
+  9601eb1fba1a47cfb5b19aec7dc6d998:
+    span:
+      start: 8683
+      end: 10090
+    metadata:
+      page_num: '146'
+    page_info: null
+    imgnum: 146
+    reference: null
+  aa5b657c37704e14a03c09d0c2c934f9:
+    span:
+      start: 10092
+      end: 11465
+    metadata:
+      page_num: '147'
+    page_info: null
+    imgnum: 147
+    reference: null
+  795e0fbd6a904b26b1a01d67b779b378:
+    span:
+      start: 11467
+      end: 12802
+    metadata:
+      page_num: '148'
+    page_info: null
+    imgnum: 148
+    reference: null
+  eae0f2a461844263855e7d84466bc1c0:
+    span:
+      start: 12804
+      end: 13906
+    metadata:
+      page_num: '149'
+    page_info: null
+    imgnum: 149
+    reference: null
